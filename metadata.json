@@ -1,0 +1,6 @@
+{
+  "name": "رفيق المسلم - الصلاة والقرآن والأذكار",
+  "description": "تطبيق إسلامي شامل وموثوق لمواقيت الصلاة، الأذان، اتجاه القبلة، القرآن الكريم، الأذكار، والتقويم الهجري.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

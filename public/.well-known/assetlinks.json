@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aqimas_salah.app",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:6F:09:A6:6C:5F:B6:7D:7B:3F:8A:2C:9E:10:45:67:89:AB:CD:EF:01:23:45:67:89:AB:CD:EF:01"
+      ]
+    }
+  }
+]
